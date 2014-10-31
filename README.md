@@ -1,2 +1,1 @@
-DataDrugdeReport
-================
+< {0,} {0,}/ {0,}[sS][tT][rR][oO][nN][gG] {0,}>!\\\\!< {0,}[sS][tT][rR][oO][nN][gG] {0,}>!\\\\\!id {0,}= {0,}"drudgeTopHeadlines"!\\\\\!<!-- Main headlines links END --->!\\\\\!<! MAIN HEADLINE>!\\\\\!<! FIRST COLUMN STARTS HERE>!\\\\\!<!--JavaScript Tag!\\\\\!<! SECOND COLUMN BEGINS HERE>!\\\\\!<! L I N K S      S E C O N D     C O L U M N>!\\\\\!<! THIRD COLUMN STARTS HERE>!\\\\\!<!--JavaScript Tag!\\\\\!<!-- /end CF_RESULTPAGES -->!\\\\\!<script type="text/javascript">!\\\\\!^!\\\\\!drudgereportarchives.com!\\\\\![hH][rR][eE][fF] {0,}= {0,}"!\\\\\!"!\\\\\!>!\\\\\!<
