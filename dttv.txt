@@ -1,0 +1,1 @@
+http://www.filmon.com/tv/channel/export?channel_id=<id>&affid=7032Ul<;>http://static.filmon.com/couch/channels/<id>/big_logo.png<;>http://static.filmon.com/couch/groups/<id>/logo.png?v2
