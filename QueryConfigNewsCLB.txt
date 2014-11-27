@@ -1,1 +1,1 @@
-div.contentcolumn .innertube table table table tr!/////!td!/////!a.headline!/////!href!/////!timestrap!/////!class!/////!timestrap!/////!h2
+div.contentcolumn .innertube table table table tr!/////!td!/////!a.headline!/////!href!/////!timestrap!/////!class!/////!timestrap!/////!h2!/////!src="http://static.polldaddy.com/p/!/////!.js"></script>
